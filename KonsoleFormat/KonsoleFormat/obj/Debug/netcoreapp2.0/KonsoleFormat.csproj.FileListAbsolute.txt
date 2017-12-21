@@ -1,0 +1,22 @@
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.deps.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.runtimeconfig.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.runtimeconfig.dev.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.dll
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.pdb
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.AssemblyInfoInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.AssemblyInfo.cs
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.dll
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.pdb
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.deps.json
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.runtimeconfig.json
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.runtimeconfig.dev.json
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.dll
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\bin\Debug\netcoreapp2.0\KonsoleFormat.pdb
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.csprojResolveAssemblyReference.cache
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.csproj.CoreCompileInputs.cache
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.AssemblyInfoInputs.cache
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.AssemblyInfo.cs
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.dll
+C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleFormat\KonsoleFormat\obj\Debug\netcoreapp2.0\KonsoleFormat.pdb

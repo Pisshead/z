@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KonsoleFormat",
+    "\\KonsoleFormat\\bin",
+    "\\KonsoleFormat\\bin\\Debug",
+    "\\KonsoleFormat\\bin\\Debug\\netcoreapp2.0",
+    "\\KonsoleFormat\\bin\\Release",
+    "\\KonsoleFormat\\bin\\Release\\netcoreapp2.0",
+    "\\KonsoleFormat\\obj",
+    "\\KonsoleFormat\\obj\\Release",
+    "\\KonsoleFormat\\obj\\Release\\netcoreapp2.0"
+  ],
+  "SelectedNode": "\\KonsoleFormat\\bin\\Debug\\netcoreapp2.0",
+  "PreviewInSolutionExplorer": false
+}
